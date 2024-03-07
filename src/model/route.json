@@ -1,0 +1,874 @@
+ [
+        {
+            "regional": "REG-6",
+            "witel": "BALIKPAPAN",
+            "name": "Batu Ampar - Muara Jawa",
+            "coordinates":[{ "latitude":-1.2177108673164267, "longitude": 116.85508938209907 },{ "latitude":-0.8262888724773723, "longitude": 117.23949665122417 }],
+            "guid": "f7b19422-95cb-4a0f-a378-cfe14e28ffcd",
+            "createAt": "2024-02-12T03:33:37+00:00"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "BALIKPAPAN",
+            "name": "Labangka - Sepaku",
+            "coordinates":[{ "latitude":5.5612671, "longitude": 95.2462987 },{ "latitude":-5.4283079, "longitude":105.1059179 }],
+            "guid": "4c84cd6a-fad0-4529-a8c6-d6b27140d298",
+            "createAt": "2024-02-12T03:33:37+00:01"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Miaubaru - Matamanis",
+            "coordinates":[{ "latitude":5.5612671, "longitude": 95.2462987 },{ "latitude":-5.4283079, "longitude":105.1059179 }],
+            "guid": "9677ebcf-fcbb-499f-89b0-ced56548eaf1",
+            "createAt": "2024-02-12T03:33:37+00:02"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Samarinda - Tanjung Santan",
+            "coordinates":[{ "latitude":5.5612671, "longitude": 95.2462987 },{ "latitude":-5.4283079, "longitude":105.1059179 }],
+            "guid": "6aad472b-e44f-4884-b20a-39f8d195711e",
+            "createAt": "2024-02-12T03:33:37+00:03"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Sajau - Tj. Selor",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "9b9610a4-0986-4c1f-a9ac-33c9d37208dc",
+            "createAt": "2024-02-12T03:33:37+00:04"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Labanan - Tj. Redeb",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "a894a503-a8e2-48c5-9e40-b7d3accd5d4a",
+            "createAt": "2024-02-12T03:33:37+00:05"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "PARE-PARE",
+            "name": "Sarudu - Pasangkayu",
+            "coordinates":[{ "latitude":-1.1543192, "longitude": 106.9335381 },{ "latitude":-3.7805238, "longitude": 115.4170982 }],
+            "guid": "3730c7b0-5e04-4d56-af7b-c515d6e3bd97",
+            "createAt": "2024-02-12T03:33:37+00:06"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "ACEH",
+            "name": "Kutacane - TigaBinanga",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "2660356e-53ea-445b-b5fa-f533177a6ff9",
+            "createAt": "2024-02-12T03:33:37+00:07"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "PADANG",
+            "name": "Alahan Panjang - Muara Labuh",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "c635652e-3605-4ace-b518-10199cc8441b",
+            "createAt": "2024-02-12T03:33:37+00:08"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "JAMBI",
+            "name": "Sungai Penuh - Tapan",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "f19419a4-e267-487c-958b-918a1499bec6",
+            "createAt": "2024-02-12T03:33:37+00:09"
+        },
+        {
+            "regional": "REG-5",
+            "witel": "KUPANG",
+            "name": "Ende - Wolowaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "7213a21c-e373-4b5a-a0bb-0ffb575dc05e",
+            "createAt": "2024-02-12T03:33:37+00:10"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "BALIKPAPAN",
+            "name": "Batuampar - Muarajawa",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -7.0245522, "longitude":110.3346615 }],
+            "guid": "0c769c2f-8172-446d-987e-b06e53e248aa",
+            "createAt": "2024-02-12T03:33:37+00:11"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Miau Baru - Matamanis",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -7.0225189, "longitude": 107.5508831 }],
+            "guid": "e0fb3355-d502-43f7-bb0d-2b2c696adf34",
+            "createAt": "2024-02-12T03:33:37+00:12"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Samarinda - Tanjung Santan",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "61582d9c-0c58-4b99-b31f-cd2666724a88",
+            "createAt": "2024-02-12T03:33:37+00:13"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Sajau - Tj.Selor",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "de8933cf-1402-4cb2-b37f-554e0c674c6b",
+            "createAt": "2024-02-12T03:33:37+00:14"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Tj. Redeb - Sajau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "1278a8fc-be1f-4c0b-81a2-0f5860c094e8",
+            "createAt": "2024-02-12T03:33:37+00:15"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Labanan - TJ.Redeb",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "85406db5-a7bb-47fb-a0e3-45feef7f14fc",
+            "createAt": "2024-02-12T03:33:37+00:16"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "PARE-PARE",
+            "name": "Sarudu - Pasangkayu",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "38df1e82-bc76-4ec5-adc1-2ff952449625",
+            "createAt": "2024-02-12T03:33:37+00:17"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "KENDARI",
+            "name": "Batulaki - Kolaka",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "b1e0af0c-a807-4492-95a7-a84f4f6a7475",
+            "createAt": "2024-02-12T03:33:37+00:18"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "PALU",
+            "name": "Toli Toli - Pasir Putih",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "856c63c3-9a60-4d61-8120-ca27a38ed2cd",
+            "createAt": "2024-02-12T03:33:37+00:19"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "PADANG",
+            "name": "Alahan Panjang - Muara Labuh",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -7.8722379, "longitude": 110.0945967 }],
+            "guid": "a9651ac3-76a4-4a75-83a3-18c5d186574e",
+            "createAt": "2024-02-12T03:33:37+00:20"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "JAMBI",
+            "name": "Tapan - Sungai Penuh",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "6cd70abc-f199-44c7-9ddf-3705bae31810",
+            "createAt": "2024-02-12T03:33:37+00:21"
+        },
+        {
+            "regional": "REG-5",
+            "witel": "KUPANG",
+            "name": "ENDE - Wolowaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude":-7.4300981, "longitude": 109.1520199 }],
+            "guid": "008a2264-d47f-44e2-93d7-c7baf12dfb04",
+            "createAt": "2024-02-12T03:33:37+00:22"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "PONTIANAK",
+            "name": "Sei Pinyuh - Mempawah",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "45984119-1f50-49e8-815b-c2bf52db5a15",
+            "createAt": "2024-02-12T03:33:37+00:23"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "BALIKPAPAN",
+            "name": "Batuampar - Muarajawa",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "fe9128a1-6ea2-4fe5-a69a-2996d0d19370",
+            "createAt": "2024-02-12T03:33:37+00:24"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Samarinda - Tanjung Santan",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -6.3472839, "longitude":108.2884697 }],
+            "guid": "d88693d3-894c-4812-99f4-8d71b8ca69e5",
+            "createAt": "2024-02-12T03:33:37+00:25"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Matamanis - Simpang Perdau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "25c7ebce-b457-4981-a366-28425bff985f",
+            "createAt": "2024-02-12T03:33:37+00:26"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Miau Baru - Matamanis",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "c6e3a469-af94-4cae-9cef-6defe4c1da45",
+            "createAt": "2024-02-12T03:33:37+00:27"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Sajau - Tj. Selor",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "ac3f2554-c0ff-4446-9f47-0eab6e4dbcff",
+            "createAt": "2024-02-12T03:33:37+00:28"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Tj. Redeb - Sajau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "85b70e61-9e05-42ae-b77d-332572b4eb78",
+            "createAt": "2024-02-12T03:33:37+00:29"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Labanan - Tj. Redeb",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "00c80119-8b03-4f0d-9fe6-d6607c4bb41e",
+            "createAt": "2024-02-12T03:33:37+00:30"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "PALU",
+            "name": "Toli-Toli - Pasir Putih",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "89ae7511-979e-4685-b59e-13e5aebb3cde",
+            "createAt": "2024-02-12T03:33:37+00:31"
+        },
+        {
+            "regional": "REG-5",
+            "witel": "KUPANG",
+            "name": "Ende - Wolowaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "e1d0db7e-5e14-4f36-8146-ff3dff5f615c",
+            "createAt": "2024-02-12T03:33:37+00:32"
+        },
+        {
+            "regional": "REG-5",
+            "witel": "KUPANG",
+            "name": "Bajawa - Ende",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "ddf347bc-47a6-4be1-a108-5c978643346d",
+            "createAt": "2024-02-12T03:33:37+00:33"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "PONTIANAK",
+            "name": "Sei Pinyuh - Mempawah",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "6b42e686-06f3-4a8b-a5aa-e3f248f951c5",
+            "createAt": "2024-02-12T03:33:37+00:34"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Samarinda - Tanjung Santan",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "e4024711-96d3-4b4a-8267-ddff631cfd8f",
+            "createAt": "2024-02-12T03:33:37+00:35"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Matamanis - Simpang Perdau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "821c6855-2ff7-4371-8ec8-6ee3231855da",
+            "createAt": "2024-02-12T03:33:37+00:36"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Tanjung Redeb - Sajau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "0059156f-9de2-4899-a8d6-1ae80956803d",
+            "createAt": "2024-02-12T03:33:37+00:37"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Sajau - Tj. Selor",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "e73aa6e4-cb77-47ea-9c22-29267a197ab4",
+            "createAt": "2024-02-12T03:33:37+00:38"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Labanan - Tj Redeb",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "161f927e-a4ad-44eb-996e-a45ed45975bb",
+            "createAt": "2024-02-12T03:33:37+00:39"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "PARE-PARE",
+            "name": "Sarudu - Pasangkayu",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "ab056174-b3b7-46d8-b4fa-78972a69bffc",
+            "createAt": "2024-02-12T03:33:37+00:40"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "ACEH",
+            "name": "Kutacane - TigaBinanga",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "a0613cdf-d9fa-490e-856f-3af19280adc4",
+            "createAt": "2024-02-12T03:33:37+00:41"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "PADANG",
+            "name": "Alahan Panjang - Muara Labuh",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "b5333f66-b5ff-4193-ab07-9eee4efaaa97",
+            "createAt": "2024-02-12T03:33:37+00:42"
+        },
+        {
+            "regional": "REG-5",
+            "witel": "KUPANG",
+            "name": "Bajawa - Ende",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "99ad237d-7dfd-429a-85be-f0c7c45935c5",
+            "createAt": "2024-02-12T03:33:37+00:43"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "PONTIANAK",
+            "name": "Sei Pinyuh - Mempawah",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "f827c29f-cbaf-43d8-a085-263921fcd3cc",
+            "createAt": "2024-02-12T03:33:37+00:44"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "BALIKPAPAN",
+            "name": "Batu Ampar - Muarajawa",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "4ae78243-72c0-4de5-8c8c-8235b7117f5b",
+            "createAt": "2024-02-12T03:33:37+00:45"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Samarinda - Tj. Santan",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "790193c2-e67e-410f-90e6-0f5d2c65e717",
+            "createAt": "2024-02-12T03:33:37+00:46"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Matamanis - Simpang Perdau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "89872fb5-2591-4ad7-9685-8518a9fb5126",
+            "createAt": "2024-02-12T03:33:37+00:47"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Miau Baru - Matamanis",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "45fb96f5-7cd3-4bd0-acdc-90270b9616e5",
+            "createAt": "2024-02-12T03:33:37+00:48"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Matamanis - Miaubaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "3e8bbcf8-fe11-411f-8746-b7692de67ca7",
+            "createAt": "2024-02-12T03:33:37+00:49"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Tanjung Santan - Bontang",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "61cdd110-bf9c-4a26-8a2c-42ee4fc574b6",
+            "createAt": "2024-02-12T03:33:37+00:50"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Tanjung Redeb - Sajau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "aede8946-7beb-41fe-b2d5-b4dbae222214",
+            "createAt": "2024-02-12T03:33:37+00:51"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Sajau - Tj. Selor",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "93950f9d-8a89-4720-9525-460dc20faa9f",
+            "createAt": "2024-02-12T03:33:37+00:52"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "PARE-PARE",
+            "name": "Sarudu - Pasangkayu",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "55a3ee4d-c06f-40bc-a525-23c55d18feca",
+            "createAt": "2024-02-12T03:33:37+00:53"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "KENDARI",
+            "name": "Batulaki - Kolaka",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "5688395c-80a1-4ea6-8cdd-1b06a6dcad26",
+            "createAt": "2024-02-12T03:33:37+00:54"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "PADANG",
+            "name": "Alahan Panjang - Muara Labuh",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "e8da05c9-f67e-4749-b4b1-9f5f911123b7",
+            "createAt": "2024-02-12T03:33:37+00:55"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "JAMBI",
+            "name": "Sungai Penuh - Tapan",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "616626eb-6f8d-4501-a18b-d1a6225e9db8",
+            "createAt": "2024-02-12T03:33:37+00:56"
+        },
+        {
+            "regional": "REG-5",
+            "witel": "KUPANG",
+            "name": "Ende - Wolowaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "1fa2dce7-c341-4e1b-97f7-9a8b4e359ca4",
+            "createAt": "2024-02-12T03:33:37+00:57"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "BALIKPAPAN",
+            "name": "Batu Ampar - Muarajawa",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "765a488e-e266-4455-ac20-89010cbee912",
+            "createAt": "2024-02-12T03:33:37+00:58"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "BALIKPAPAN",
+            "name": "Labangka - Sepaku",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "8005c317-c565-49c0-945a-916405d06659",
+            "createAt": "2024-02-12T03:33:37+00:59"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "MataManis - Miaubaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "fc21302a-8730-42a9-b4ec-77ad6edf8d64",
+            "createAt": "2024-02-12T03:33:37+00:60"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Sangata - Bontang",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "9c6f86fd-105f-47f2-8056-2ea6f4330aad",
+            "createAt": "2024-02-12T03:33:37+00:61"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Miaubaru - Matamanis",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "6ae135a1-2a55-4301-8b37-799a0afbca46",
+            "createAt": "2024-02-12T03:33:37+00:62"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Matamanis - Simpang Perdau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "bdea0d15-811e-4230-8ff8-b0abc835ea99",
+            "createAt": "2024-02-12T03:33:37+00:63"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Tanjung Santan - Bontang",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "0ff4e29a-ed80-4c69-9454-d69db5ab1b96",
+            "createAt": "2024-02-12T03:33:37+00:64"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Tanjung Redeb -Sajau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "3e17eeff-c09c-4a4b-99f9-9da62691abb0",
+            "createAt": "2024-02-12T03:33:37+00:65"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Labanan - Tanjung Redeb",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "7690c4e4-ef50-4c14-b463-f570635f89e0",
+            "createAt": "2024-02-12T03:33:37+00:66"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "PARE-PARE",
+            "name": "Sarudu - Pasangkayu",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "83e1f6e5-f60a-4aca-9ecb-09cc75c01327",
+            "createAt": "2024-02-12T03:33:37+00:67"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "KENDARI",
+            "name": "Batulaki - Kolaka",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "99581e84-22eb-46fc-859a-66366c3febc4",
+            "createAt": "2024-02-12T03:33:37+00:68"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "PADANG",
+            "name": "Alahan Panjang - Muara Labuh",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "50218471-173c-4375-92fb-5fd2e374b89b",
+            "createAt": "2024-02-12T03:33:37+00:69"
+        },
+        {
+            "regional": "REG-1",
+            "witel": "JAMBI",
+            "name": "Sungai Penuh - Tapan",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "b498bd94-101f-4da7-90af-c2d2c1e77159",
+            "createAt": "2024-02-12T03:33:37+00:70"
+        },
+        {
+            "regional": "REG-5",
+            "witel": "KUPANG",
+            "name": "Ende - Wolowaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "536a7b9c-58f0-45e3-a40e-edd824ea37c1",
+            "createAt": "2024-02-12T03:33:37+00:71"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "BALIKPAPAN",
+            "name": "Batu Ampar - Muarajawa",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "82f04df6-d6a4-411c-8cbf-cdc5f6682c25",
+            "createAt": "2024-02-12T03:33:37+00:72"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "BALIKPAPAN",
+            "name": "Labangka - Sepaku",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "a23db215-c0ce-46f2-85e0-e7bee161f5d0",
+            "createAt": "2024-02-12T03:33:37+00:73"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Samarinda - Tanjung Santan",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "631068d0-f0cb-4c46-bb5e-9b56da45c26a",
+            "createAt": "2024-02-12T03:33:37+00:74"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "SAMARINDA",
+            "name": "Matamanis - Miaubaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "c6106a05-9b96-4f33-a666-b250616e8211",
+            "createAt": "2024-02-12T03:33:37+00:75"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Tanjung Selor - Sajau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "15b89d97-4724-4326-867b-f23179a01b66",
+            "createAt": "2024-02-12T03:33:37+00:76"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Sajau - Tanjung Selor",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "4a6873e4-0c2e-457c-a013-668e772c9065",
+            "createAt": "2024-02-12T03:33:37+00:77"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Tanjung Redeb - Sajau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "e28176b1-7054-4d8a-a70f-457466d0c131",
+            "createAt": "2024-02-12T03:33:37+00:78"
+        },
+        {
+            "regional": "REG-6",
+            "witel": "TARAKAN",
+            "name": "Labanan - Tj Redeb",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "8a372e6a-2640-4f82-89fa-c47b75117385",
+            "createAt": "2024-02-12T03:33:37+00:79"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "PARE-PARE",
+            "name": "Sarudu - Pasangkayu",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "4448f710-d626-4914-bb97-15c7a48d1e0f",
+            "createAt": "2024-02-12T03:33:37+00:80"
+        },
+        {
+            "regional": "REG-7",
+            "witel": "KENDARI",
+            "name": "Batulaki - Kolaka",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "66e109fa-c7fd-4a1b-9cc0-dfb1484a726f",
+            "createAt": "2024-02-12T03:33:37+00:81"
+        },
+        {
+            "regional": "Reg-1",
+            "witel": "ACEH",
+            "name": "Kutacane - TigaBinanga",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "fce0f1de-1dea-4416-83d8-4ef8c60b45d6",
+            "createAt": "2024-02-12T03:33:37+00:82"
+        },
+        {
+            "regional": "Reg-1",
+            "witel": "PADANG",
+            "name": "Alahan Panjang - Muara Labuh",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "4b540549-5173-4c8b-9707-cc4412a580aa",
+            "createAt": "2024-02-12T03:33:37+00:83"
+        },
+        {
+            "regional": "Reg-5",
+            "witel": "Pasuruan",
+            "name": "Ampel Gading - Lumajang",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "eb1f6c50-25b6-4568-865c-4ced2376f0b6",
+            "createAt": "2024-02-12T03:33:37+00:84"
+        },
+        {
+            "regional": "Reg-5",
+            "witel": "KUPANG",
+            "name": "Ende - Bajawa",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "49194dcc-a0be-49f3-9659-704602aa1819",
+            "createAt": "2024-02-12T03:33:37+00:85"
+        },
+        {
+            "regional": "Reg-5",
+            "witel": "KUPANG",
+            "name": "Ende - Wolowaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "cf72e1e7-10fb-4954-994c-05b04687466b",
+            "createAt": "2024-02-12T03:33:37+00:86"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "Balikpapan",
+            "name": "Labangka - Sepaku",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "1f83e87d-a2f1-4474-87bb-edf5ad61163a",
+            "createAt": "2024-02-12T03:33:37+00:87"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "Balikpapan",
+            "name": "Batu Ampar - Kuala Samboja",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "19879779-d3e1-4dce-9a21-917f9e381aaf",
+            "createAt": "2024-02-12T03:33:37+00:88"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "Samarinda",
+            "name": "Sangata - Bontang",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "9bfdae39-2dc6-4bf1-98a2-2d4e58b59a93",
+            "createAt": "2024-02-12T03:33:37+00:89"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "Samarinda",
+            "name": "Tanjung Santan - Bontang",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "39348e13-636a-4aaa-9b69-6148ee026fc3",
+            "createAt": "2024-02-12T03:33:37+00:90"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "Samarinda",
+            "name": "Matamanis - Miaubaru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "55767532-d0d1-4e1c-bb75-a0bd5db5c87d",
+            "createAt": "2024-02-12T03:33:37+00:91"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "Samarinda",
+            "name": "Matamanis - Simpang Perdau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "abe0ee42-83dc-445e-8cdb-f7f949751b9c",
+            "createAt": "2024-02-12T03:33:37+00:92"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "Tarakan",
+            "name": "Tanjung Selor - Sajau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "5fa94fe7-320f-46bf-920d-60b948d03d89",
+            "createAt": "2024-02-12T03:33:37+00:93"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "Tarakan",
+            "name": "Labanan - Tj. Redeb",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "f2bcd492-33ed-4233-b2d8-6fff26074097",
+            "createAt": "2024-02-12T03:33:37+00:94"
+        },
+        {
+            "regional": "Reg-7",
+            "witel": "Kendari",
+            "name": "Batulaki - Kolaka",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "76346f65-12e6-4cda-aade-b4f62223f1a6",
+            "createAt": "2024-02-12T03:33:37+00:95"
+        },
+        {
+            "regional": "Reg-1",
+            "witel": "PADANG",
+            "name": "Alahan Panjang - Muara Labuh",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "11f1b2da-7865-47a6-875e-7a2774556084",
+            "createAt": "2024-02-12T03:33:37+00:96"
+        },
+        {
+            "regional": "Reg-5",
+            "witel": "PASURUAN",
+            "name": "Ampel Gading - Lumajang",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "7383d937-01fb-4587-8553-5e269b77b2ce",
+            "createAt": "2024-02-12T03:33:37+00:97"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "BALIKPAPAN",
+            "name": "Muara Jawa - Kuala samboja",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "71ab50f9-cda4-43e6-abdc-834f263a0978",
+            "createAt": "2024-02-12T03:33:37+00:98"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "BALIKPAPAN",
+            "name": "Batuampar - Kuala Samboja",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "5e3870cd-3ceb-4cd2-a3eb-e8d1b6e780d6",
+            "createAt": "2024-02-12T03:33:37+00:99"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "SAMARINDA",
+            "name": "Miaubaru - Matamanis",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "242e4388-171f-43a4-95d6-d524fbab4327",
+            "createAt": "2024-02-12T03:33:37+00:100"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "SAMARINDA",
+            "name": "Samarinda - Tj. Santan",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "7df8af26-1927-438f-b5b9-218138bc8681",
+            "createAt": "2024-02-12T03:33:37+00:101"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "SAMARINDA",
+            "name": "Matamanis - Miau Baru",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "6abc666a-b3b9-4fca-8019-41bb62c2e69b",
+            "createAt": "2024-02-12T03:33:37+00:102"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "SAMARINDA",
+            "name": "Matamanis - Simpang Perdau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "839b5b63-dd2e-4205-9e68-f654aba2902e",
+            "createAt": "2024-02-12T03:33:37+00:103"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "SAMARINDA",
+            "name": "Tanjung Santan - Bontang",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "f43d5315-4045-477d-87a0-151c8197d9d1",
+            "createAt": "2024-02-12T03:33:37+00:104"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "TARAKAN",
+            "name": "Labanan - Tj. Redeb",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "2be5ce67-b017-460b-aa5f-b673078cfdc9",
+            "createAt": "2024-02-12T03:33:37+00:105"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "TARAKAN",
+            "name": "Tanjung Redeb - Sajau",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "a87ae45c-1cd7-48fd-a6f1-032d9b75c840",
+            "createAt": "2024-02-12T03:33:37+00:106"
+        },
+        {
+            "regional": "Reg-6",
+            "witel": "TARAKAN",
+            "name": "Sajau - Tanjung Selor",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "93dbc6cd-b304-4a75-accd-990115840235",
+            "createAt": "2024-02-12T03:33:37+00:107"
+        },
+        {
+            "regional": "Reg-7",
+            "witel": "KENDARI",
+            "name": "Batulaki - Kolaka",
+            "coordinates":[{ "latitude":-7.0486627, "longitude": 107.4444405 },{ "latitude": -8.216838, "longitude": 114.3249505 }],
+            "guid": "d671457a-81d0-4358-b316-a39b29f4707c",
+            "createAt": "2024-02-12T03:33:37+00:108"
+        }
+    ]
